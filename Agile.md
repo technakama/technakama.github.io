@@ -1,3 +1,7 @@
+layout: page
+title: "Agile"
+permalink: /agile
+
 **10 Amazing ways adopting Agile Framework can enhance business performance**
 
 Agile practices have more importance in your business than you can possibly imagine. Read about 10 such ways in which you can benefit by adopting Agile practices in your business.
